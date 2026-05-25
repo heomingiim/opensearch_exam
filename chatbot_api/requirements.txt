@@ -1,0 +1,10 @@
+opensearch-py
+python-dotenv
+sentence-transformers
+tqdm
+schedule
+langchain-text-splitters
+langchain-community
+langchain-core
+requests
+beautifulsoup4
